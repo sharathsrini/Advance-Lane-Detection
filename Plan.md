@@ -1,4 +1,4 @@
-###### 05-03-2018
+#### 05-03-2018
 1. Advance deep learning in determistic approach 
 2. Calibrating Camera 
      1.  Type of lens
@@ -20,7 +20,7 @@
 DEADLINE : 1ST - 18TH  VIDEOS 
 
 
-###### 06/03/2018
+#### 06/03/2018
 1. Why Sobel over Canny
 2. Gradient Threshold - Sobel Operator
      1. Sobel X and Y
