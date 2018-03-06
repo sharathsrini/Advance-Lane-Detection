@@ -25,4 +25,4 @@ DEADLINE : 1ST - 18TH  VIDEOS
 2. Gradient Threshold - Sobel Operator
      1. Sobel X and Y
      2. cv2.Sobel - Takes in Image, Ksize(a int value that defines the size, and the more bigger, the more smoother ), 
-     3. We 
+     3. [a link] [https://www.quora.com/What-is-the-difference-between-edge-detection-Sobel-detection-and-Canny-detection] 
