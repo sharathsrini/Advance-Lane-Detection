@@ -44,3 +44,36 @@ Canny edge detection goes a bit further by removing speckle noise with a low pas
 "Edge detection" could refer to either of the above, or to many modern edge detection algorithms that are much more sophisticated than either of the above. For example there are edge detectors that have some success at finding edges between two textured regions while ignoring the edges in the textures themselves. There are edge detectors that are more global in scope in that they try to find edges between regions of homogeneous color or texture. Likewise, another global algorithm looks for edges that follow smooth contours even when parts of those contours are weak or obscured. A recent paper based edge detection on the statistics of color co-occurrence between adjacent pixels. I am too lazy to write out all the references. 
 
 Edge detection (known as contour detection in more modern parlance) is an active area of research.
+
+
+#### 07/03/2018
+
+1. Generative Adversial Networks 
+2. Statistics - PDF
+3. Gaussian Distribution, Random Sampple Function
+4. PDF for each Pixel in  the image.
+5. High Dimensional PDF
+6. Input is a vector of Random numbers
+7. THese numbers are sampled from a uniform Distribution
+8.  The way you generate images is by mapping a random number with a PDF,  the distribution is learnt by the GAN.
+9. Collection of input and output may lead to a deterministic i.e a pattern can be understood, and thus a image creation pattern could be seen , but cannot be controlled.
+10. github/vdumoulin/conv_arthimetic
+11. Discriminator : Convolution network - 64x64x3 is taken in and a single output is give.
+12. This tries to tell us if the image is fke or not. This is called  DCGAN -Combined Architecture.
+13. After a Equilibrium, the Discriminator would be confused and will output 0.5 as PDF. The Discriminator is being fooled.
+14. DCGAN ----- Convolution is used. Deep Convolution 
+15. If x is is the real world dataser, z is the random noise, oytput of the GAN is G(z). if discriminator has a function of D, the optimization objective would be to maximize D(x), but miniminze D(G(z)).
+16. Generator would maximize the output i.e. D(G(z)) to fool the discriminator.
+17. pz = The known Distribution
+18. pdata = the unknown distribution of the images.
+19. pz = The probability of generator images.
+20. We would want pz = pdata.
+21. LSUN Bedrooms Dataset.
+22. Variations of GANs : github:eriklindernoren/Keras-GAN , github:junyanz/CycleGAN
+23. Data-Augmentation using GANs. 
+24. Image Super Resolution: SR GAN
+25. Image Completion.
+26. Semi Supervised Learning with GANs, we have a huge unlabelled dataset, train the GAN on a unlabelled Data, modify the Discriminiator to produce an additional output indicatiiong the label of the input.
+27. Train the Discriminator on a label dataset.
+28. OpenAI 's impleentation.
+29. SIM-GAN , images synthetically generated from images from games like GTA V.
