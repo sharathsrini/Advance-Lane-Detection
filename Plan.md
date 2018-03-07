@@ -77,3 +77,4 @@ Edge detection (known as contour detection in more modern parlance) is an active
 27. Train the Discriminator on a label dataset.
 28. OpenAI 's impleentation.
 29. SIM-GAN , images synthetically generated from images from games like GTA V.
+
