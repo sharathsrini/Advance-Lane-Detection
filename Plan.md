@@ -78,3 +78,6 @@ Edge detection (known as contour detection in more modern parlance) is an active
 28. OpenAI 's impleentation.
 29. SIM-GAN , images synthetically generated from images from games like GTA V.
 
+#### 08/03/2018
+1. Claroom Sliding Window Code Discussion.
+2. 
