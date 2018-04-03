@@ -127,7 +127,7 @@ for idx,fname in enumerate(images):
 ```
 
 
-![png](readme-pics/output_2_0.png)
+![png](read-me/output_2_0.png)
 
 
 
@@ -147,7 +147,7 @@ plt.show()
 ```
 
 
-![png](readme-pics/output_3_0.png)
+![png](read-me/output_3_0.png)
 
 
 #### Briefly state how you computed the camera matrix and distortion coefficients. Provide an example of a distortion corrected calibration image.
@@ -169,7 +169,7 @@ plt.show()
 ```
 
 
-![png](readme-pics/output_5_0.png)
+![png](read-me/output_5_0.png)
 
 
 
@@ -395,27 +395,27 @@ plt.show()
 ```
 
 
-![png](readme-pics/output_15_0.png)
+![png](read-me/output_15_0.png)
 
 
 
-![png](readme-pics/output_15_1.png)
+![png](read-me/output_15_1.png)
 
 
 
-![png](readme-pics/output_15_2.png)
+![png](read-me/output_15_2.png)
 
 
 
-![png](readme-pics/output_15_3.png)
+![png](read-me/output_15_3.png)
 
 
 
-![png](readme-pics/output_15_4.png)
+![png](read-me/output_15_4.png)
 
 
 
-![png](readme-pics/output_15_5.png)
+![png](read-me/output_15_5.png)
 
 
 
@@ -470,23 +470,23 @@ plt.subplots_adjust(left=0., right=1, top=0.9, bottom=0.)
 ```
 
 
-![png](readme-pics/output_16_0.png)
+![png](read-me/output_16_0.png)
 
 
 
-![png](readme-pics/output_16_1.png)
+![png](read-me/output_16_1.png)
 
 
 
-![png](readme-pics/output_16_2.png)
+![png](read-me/output_16_2.png)
 
 
 
-![png](readme-pics/output_16_3.png)
+![png](read-me/output_16_3.png)
 
 
 
-![png](readme-pics/output_16_4.png)
+![png](read-me/output_16_4.png)
 
 
 
@@ -518,7 +518,7 @@ plt.subplots_adjust(left=0., right=1, top=0.9, bottom=0.)
 ```
 
 
-![png](readme-pics/output_17_0.png)
+![png](read-me/output_17_0.png)
 
 
 ## A Note on Combining Thresholds
@@ -579,7 +579,7 @@ plt.savefig('./Combined.jpg')
 ```
 
 
-![png](readme-pics/output_19_0.png)
+![png](read-me/output_19_0.png)
 
 
 
@@ -1013,31 +1013,31 @@ for image in images:
     
 
 
-![png](readme-pics/output_32_1.png)
+![png](read-me/output_32_1.png)
 
 
 
-![png](readme-pics/output_32_2.png)
+![png](read-me/output_32_2.png)
 
 
 
-![png](readme-pics/output_32_3.png)
+![png](read-me/output_32_3.png)
 
 
 
-![png](readme-pics/output_32_4.png)
+![png](read-me/output_32_4.png)
 
 
 
-![png](readme-pics/output_32_5.png)
+![png](read-me/output_32_5.png)
 
 
 
-![png](readme-pics/output_32_6.png)
+![png](read-me/output_32_6.png)
 
 
 
-![png](readme-pics/output_32_7.png)
+![png](read-me/output_32_7.png)
 
 
 
@@ -1045,15 +1045,15 @@ for image in images:
 
 
 
-![png](readme-pics/output_32_9.png)
+![png](read-me/output_32_9.png)
 
 
 
-![png](readme-pics/output_32_10.png)
+![png](read-me/output_32_10.png)
 
 
 
-![png](readme-pics/output_32_11.png)
+![png](read-me/output_32_11.png)
 
 
 
@@ -1061,19 +1061,19 @@ for image in images:
 
 
 
-![png](readme-pics/output_32_13.png)
+![png](read-me/output_32_13.png)
 
 
 
-![png](readme-pics/output_32_14.png)
+![png](read-me/output_32_14.png)
 
 
 
-![png](readme-pics/output_32_15.png)
+![png](read-me/output_32_15.png)
 
 
 
-![png](readme-pics/output_32_16.png)
+![png](read-me/output_32_16.png)
 
 
 
